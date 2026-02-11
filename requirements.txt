@@ -4,4 +4,4 @@
 numpy>=1.21.0
 scipy>=1.7.0
 matplotlib>=3.4.0
-dataclasses>=0.6;python_version<"3.7"
+sympy>=1.9.0
