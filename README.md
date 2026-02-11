@@ -1,32 +1,35 @@
-# Manuscripts
+# Universal Solution Framework
 
-This directory contains links to published manuscripts.
-
-## Primary Publication
-
-**Universal Solution: A Unified Framework for Emergent Spacetime and Quantum Gravity**
-
-| Platform | Identifier | Link |
-|----------|------------|------|
-| DeSci Labs | dPID 794 | [View Publication](https://nodes.desci.com/dpid/794) |
+> **This repository has been superseded.** The complete Universal Solution research library is now maintained at:
+>
+> ## **[universal-solution-library](https://github.com/USTEARMANDO/universal-solution-library)**
 
 ---
 
-## Supplementary Materials
+## What Moved
 
-The following supplementary materials are available:
+The full framework — 11 papers, metadata, and all supporting materials — now lives in the [Universal Solution Library](https://github.com/USTEARMANDO/universal-solution-library) repository.
 
-1. **Mathematical Derivations** - Detailed proofs and calculations
-2. **Simulation Code** - See `/simulations` directory
-3. **Results Data** - See `/results` directory
+This includes the original Paper 1 (*The Universal Field*) that was first published here, plus 10 additional papers completing the February 2026 collection.
 
 ---
 
-## Upcoming Publications
+## Legacy Content
 
-- Consciousness as Coherent Pattern Expression (in preparation)
-- Experimental Protocol for Fifth-Force Detection (planned)
+This repo contains early simulation code and visualizations from the initial framework development. These files are preserved for reference but are no longer actively maintained.
 
 ---
 
-*For the most current versions, always refer to the DeSci Labs publication.*
+## Links
+
+| Resource | Link |
+|----------|------|
+| **Universal Solution Library** | [github.com/USTEARMANDO/universal-solution-library](https://github.com/USTEARMANDO/universal-solution-library) |
+| **DeSci Labs** | [dPID 794](https://beta.dpid.org/794) |
+| **ORCID** | [0009-0007-3542-0979](https://orcid.org/0009-0007-3542-0979) |
+
+---
+
+**Author:** Armando R. Zaragoza | USTE Technologies LLC
+
+**License:** CC BY-NC 4.0
