@@ -31,12 +31,10 @@ scripts/              17 core verification scripts
   08_qm_gr_emergence.py           US → QM + GR
   09_dark_matter.py               ρ_DM = α|∇C|²
   10_consciousness_40hz.py        f_c = 40 Hz
-  11_navier_stokes.py             sup|v| < ∞  (Clay Millennium)
   12_arrow_of_time.py             dF/dt ≥ 0
   13_complexity.py                K_max at C = 0.5
   14_mass_hierarchy.py            m = m₀·(C/F)^α
   15_modified_einstein.py         Modified Einstein field equations
-  16_measurement.py               Quantum measurement as C coupling
   17_dark_energy.py               ρ_DE = V(Φ)
 
 verifications/        Independent verification & validation
@@ -74,7 +72,6 @@ Each numbered script (01–17) independently verifies a core prediction of the U
 - **Universal Time is finite**: T_s = π/8 Planck units through singularity (Script 04)
 - **No singularities**: Field evolution remains bounded (Script 05)
 - **QM and GR emerge**: From a single framework (Script 08)
-- **Navier-Stokes boundedness**: Velocity remains finite under C + F = 1 (Script 11)
 - **Dark matter/energy**: Natural consequences of coherence gradients (Scripts 09, 17)
 
 ---
@@ -92,7 +89,7 @@ The full paper collection (11 papers, PDFs + metadata) is in the companion repos
 | Paper 6: Universal Gravity | Script 15 |
 | Paper 7: The Universal Helix | Script 07 |
 | Paper 10: Hansson 10 Problems | Scripts 01–17 (all) |
-| Paper 11: Clay Mathematics | Script 11 |
+
 
 ---
 
