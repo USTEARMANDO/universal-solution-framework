@@ -1,0 +1,4 @@
+# Framework verification only
+C + F = 1           # Fundamental constraint
+E = k·C·(1-C)       # Energy bounding principle
+# No specific implementation details
